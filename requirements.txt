@@ -6,3 +6,9 @@ timm==0.9.5
 tqdm
 pillow
 six
+
+albumentations
+pytorch_lightning
+matplotlib
+pandas
+rasterio
